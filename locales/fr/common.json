@@ -1,0 +1,79 @@
+{
+  "common": {
+    "home": "Accueil",
+    "shop": "Boutique",
+    "services": "Services",
+    "contact": "Contact",
+    "login": "Connexion",
+    "signup": "S'inscrire",
+    "logout": "Déconnexion",
+    "admin": "Admin",
+    "settings": "Paramètres",
+    "welcome": "Bienvenue",
+    "loading": "Chargement...",
+    "save": "Enregistrer",
+    "cancel": "Annuler",
+    "delete": "Supprimer",
+    "edit": "Modifier",
+    "search": "Rechercher",
+    "currency": "GDS"
+  },
+  "hero": {
+    "title": "Rechargez facilement vos services préférés",
+    "subtitle": "Netflix, Free Fire, Wise, PayPal et plus encore",
+    "cta": "Découvrir nos services"
+  },
+  "products": {
+    "netflix": "Netflix",
+    "freefire": "Free Fire",
+    "recharge": "Recharge",
+    "buyNow": "Acheter maintenant",
+    "addToCart": "Ajouter au panier",
+    "price": "Prix",
+    "month": "mois",
+    "months": "mois",
+    "diamonds": "diamants"
+  },
+  "auth": {
+    "firstName": "Prénom",
+    "lastName": "Nom",
+    "email": "Email",
+    "phone": "Téléphone",
+    "password": "Mot de passe",
+    "confirmPassword": "Confirmer le mot de passe",
+    "address": "Adresse",
+    "whatsapp": "WhatsApp",
+    "register": "S'inscrire",
+    "alreadyAccount": "Vous avez déjà un compte ?",
+    "noAccount": "Pas encore de compte ?",
+    "loginHere": "Connectez-vous ici",
+    "signupHere": "Inscrivez-vous ici"
+  },
+  "payment": {
+    "method": "Méthode de paiement",
+    "moncash": "MONCASH",
+    "natcash": "NATCASH",
+    "uploadScreenshot": "Télécharger une capture d'écran",
+    "instructions": "Envoyez le paiement puis téléchargez une capture d'écran"
+  },
+  "contact": {
+    "title": "Contactez-nous",
+    "name": "Nom",
+    "subject": "Sujet",
+    "message": "Message",
+    "send": "Envoyer"
+  },
+  "chatbot": {
+    "title": "Assistance",
+    "placeholder": "Tapez votre message...",
+    "send": "Envoyer"
+  },
+  "admin": {
+    "dashboard": "Tableau de bord",
+    "users": "Utilisateurs",
+    "orders": "Commandes",
+    "messages": "Messages",
+    "notifications": "Notifications",
+    "statistics": "Statistiques"
+  }
+}

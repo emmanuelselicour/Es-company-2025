@@ -1,0 +1,79 @@
+{
+  "common": {
+    "home": "Home",
+    "shop": "Shop",
+    "services": "Services",
+    "contact": "Contact",
+    "login": "Login",
+    "signup": "Sign Up",
+    "logout": "Logout",
+    "admin": "Admin",
+    "settings": "Settings",
+    "welcome": "Welcome",
+    "loading": "Loading...",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "search": "Search",
+    "currency": "GDS"
+  },
+  "hero": {
+    "title": "Easily recharge your favorite services",
+    "subtitle": "Netflix, Free Fire, Wise, PayPal and more",
+    "cta": "Discover our services"
+  },
+  "products": {
+    "netflix": "Netflix",
+    "freefire": "Free Fire",
+    "recharge": "Recharge",
+    "buyNow": "Buy now",
+    "addToCart": "Add to cart",
+    "price": "Price",
+    "month": "month",
+    "months": "months",
+    "diamonds": "diamonds"
+  },
+  "auth": {
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "email": "Email",
+    "phone": "Phone",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "address": "Address",
+    "whatsapp": "WhatsApp",
+    "register": "Register",
+    "alreadyAccount": "Already have an account?",
+    "noAccount": "Don't have an account?",
+    "loginHere": "Login here",
+    "signupHere": "Sign up here"
+  },
+  "payment": {
+    "method": "Payment Method",
+    "moncash": "MONCASH",
+    "natcash": "NATCASH",
+    "uploadScreenshot": "Upload screenshot",
+    "instructions": "Send payment then upload a screenshot"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "name": "Name",
+    "subject": "Subject",
+    "message": "Message",
+    "send": "Send"
+  },
+  "chatbot": {
+    "title": "Support",
+    "placeholder": "Type your message...",
+    "send": "Send"
+  },
+  "admin": {
+    "dashboard": "Dashboard",
+    "users": "Users",
+    "orders": "Orders",
+    "messages": "Messages",
+    "notifications": "Notifications",
+    "statistics": "Statistics"
+  }
+}

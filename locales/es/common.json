@@ -1,0 +1,79 @@
+{
+  "common": {
+    "home": "Inicio",
+    "shop": "Tienda",
+    "services": "Servicios",
+    "contact": "Contacto",
+    "login": "Iniciar sesión",
+    "signup": "Registrarse",
+    "logout": "Cerrar sesión",
+    "admin": "Admin",
+    "settings": "Configuración",
+    "welcome": "Bienvenido",
+    "loading": "Cargando...",
+    "save": "Guardar",
+    "cancel": "Cancelar",
+    "delete": "Eliminar",
+    "edit": "Editar",
+    "search": "Buscar",
+    "currency": "GDS"
+  },
+  "hero": {
+    "title": "Recarga fácilmente tus servicios favoritos",
+    "subtitle": "Netflix, Free Fire, Wise, PayPal y más",
+    "cta": "Descubrir nuestros servicios"
+  },
+  "products": {
+    "netflix": "Netflix",
+    "freefire": "Free Fire",
+    "recharge": "Recarga",
+    "buyNow": "Comprar ahora",
+    "addToCart": "Añadir al carrito",
+    "price": "Precio",
+    "month": "mes",
+    "months": "meses",
+    "diamonds": "diamantes"
+  },
+  "auth": {
+    "firstName": "Nombre",
+    "lastName": "Apellido",
+    "email": "Correo electrónico",
+    "phone": "Teléfono",
+    "password": "Contraseña",
+    "confirmPassword": "Confirmar contraseña",
+    "address": "Dirección",
+    "whatsapp": "WhatsApp",
+    "register": "Registrarse",
+    "alreadyAccount": "¿Ya tienes una cuenta?",
+    "noAccount": "¿No tienes una cuenta?",
+    "loginHere": "Inicia sesión aquí",
+    "signupHere": "Regístrate aquí"
+  },
+  "payment": {
+    "method": "Método de pago",
+    "moncash": "MONCASH",
+    "natcash": "NATCASH",
+    "uploadScreenshot": "Subir captura de pantalla",
+    "instructions": "Envía el pago y luego sube una captura de pantalla"
+  },
+  "contact": {
+    "title": "Contáctenos",
+    "name": "Nombre",
+    "subject": "Asunto",
+    "message": "Mensaje",
+    "send": "Enviar"
+  },
+  "chatbot": {
+    "title": "Asistencia",
+    "placeholder": "Escribe tu mensaje...",
+    "send": "Enviar"
+  },
+  "admin": {
+    "dashboard": "Panel de control",
+    "users": "Usuarios",
+    "orders": "Pedidos",
+    "messages": "Mensajes",
+    "notifications": "Notificaciones",
+    "statistics": "Estadísticas"
+  }
+}
